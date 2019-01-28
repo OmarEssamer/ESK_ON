@@ -10,7 +10,7 @@ channel.send(`abe floss moneyy`);
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Arab Craft`,"http://twitch.tv/S-F")
+client.user.setGame(`Online Tol elw8t`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')

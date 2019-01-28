@@ -1,12 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.on("ready", () => {
-let channel =     client.channels.get("505601187320692736")
-setInterval(function() {
-channel.send(`abe floss moneyy`);
-}, 30)
-})
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
